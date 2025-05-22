@@ -127,7 +127,7 @@ function App() {
           ...msgs,
           {
             role: 'assistant',
-            text: '❌ Something went wrong while booking your tour. Please try again later.'
+            text: '❌ Something went wrong while booking your tour. Please try again later!'
           }
         ]);
       } finally {
